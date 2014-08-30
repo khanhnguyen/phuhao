@@ -17,6 +17,6 @@ class HomeController < ApplicationController
   # supercal
   # supperfish
   # superhume
-  # supper10_8_8
+  # super10_8_8
   # ykienchuyengia
 end
