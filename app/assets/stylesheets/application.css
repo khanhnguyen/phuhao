@@ -11,3 +11,7 @@
  *= require_self
  *= require_tree .
 */
+
+.note_congdung font{
+    font-size: 11pt;
+}
