@@ -17,6 +17,7 @@ Phuhao::Application.routes.draw do
   match '/superfish' => 'home#superfish'
   match '/superhume' => 'home#superhume'
   match '/super10_8_8' => 'home#super10_8_8'
+  match '/sanphammoi' => 'home#sanphammoi'
   match '/ykienchuyengia' => 'home#ykienchuyengia'
   match '/index' => 'home#index'
   root :to => 'home#index'
