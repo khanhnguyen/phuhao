@@ -55,5 +55,7 @@ module Phuhao
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+    config.assets.precompile += %w(jquery.js application.js jquery.fancybox.js jquery.fancybox.pack.js application.css jquery.fancybox.css )
+
   end
 end
