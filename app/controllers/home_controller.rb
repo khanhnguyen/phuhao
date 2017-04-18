@@ -5,7 +5,7 @@ class HomeController < ApplicationController
   # congnghiep
   # hoakieng
   # lienhe
-  # lua 
+  # lua
   # MicroBoost
   # nganngay
   # npk6_19_0
@@ -20,4 +20,5 @@ class HomeController < ApplicationController
   # super10_8_8
   # ykienchuyengia
   # sanphammoi
+  # hopquy
 end
